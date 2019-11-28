@@ -1,0 +1,4 @@
+user:
+  username: root
+  password: 1234
+microservice: dag
